@@ -1,4 +1,4 @@
-#Indian Sign Language Translator
+# Indian Sign Language Translator
 
 A real-time Indian Sign Language (ISL) translator using Python, OpenCV, MediaPipe, and TensorFlow.
 
@@ -6,7 +6,7 @@ A real-time Indian Sign Language (ISL) translator using Python, OpenCV, MediaPip
 
 This project leverages computer vision and machine learning to interpret Indian Sign Language gestures. The application is designed to recognize and translate a set of predefined words and phrases from ISL into text.
 
-##Features
+## Features
 
 - Live translation of Indian Sign Language gestures.
 - Utilizes OpenCV, MediaPipe, and TensorFlow for computer vision and machine learning.
